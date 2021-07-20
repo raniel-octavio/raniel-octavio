@@ -1,3 +1,5 @@
+<span style="color:blue">“O sucesso é a soma de pequenos esforços repetidos diariamente.” Robert Collier.</span>
+
 # Olá, Sou o Raniel! :D
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/raniel-octavio)](https://github.com/raniel-octavio)
@@ -8,7 +10,7 @@ Estou cursando o 4ºsemetre de Engenharia da Computação e cursos voltado para 
 
 - [Courses]() 👨🏼‍🏫 - Cursos técnicos em várias tecnologias, como HTML, CSS, BOOTSTRAP, Introdução a PYTHON, Git, entre outros.
 - [Website](https://raniel-octavio.github.io/github.com/) 💻 - Trabalhando nisso.
-- 
+
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
