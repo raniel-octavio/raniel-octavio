@@ -8,3 +8,13 @@ Estou cursando o 4ºsemetre de Engenharia da Computação e cursos voltado para 
 
 - [Courses]() 👨🏼‍🏫 - Cursos técnicos em várias tecnologias, como HTML, CSS, BOOTSTRAP, Introdução a PYTHON, Git, entre outros.
 - [Website](https://raniel-octavio.github.io/github.com/) 💻 - Trabalhando nisso.
+- 
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      align="center"
+      height="165"
+      src="https://github-readme-stats.vercel.app/api?username=raniel-octavio&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=radical"
+    />
+  </a>
+</p>
