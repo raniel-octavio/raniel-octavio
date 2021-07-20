@@ -1,5 +1,4 @@
-<span style="color:blue">“O sucesso é a soma de pequenos esforços repetidos diariamente.” Robert Collier.</span>
-
+## [“O sucesso é a soma de pequenos esforços repetidos diariamente.” Robert Collier.]()
 # Olá, Sou o Raniel! :D
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/raniel-octavio)](https://github.com/raniel-octavio)
