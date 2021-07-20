@@ -6,5 +6,5 @@
 ### Sobre mim
 Estou cursando o 4ºsemetre de Engenharia da Computação e cursos voltado para área de Front-End.
 
-- [Courses]() 👨🏼‍🏫 - Cursos técnicos em várias tecnologias, como as HTML, CSS, BOOTSTRAP, Introdução a PYTHON, Git, entre outros.
+- [Courses]() 👨🏼‍🏫 - Cursos técnicos em várias tecnologias, como HTML, CSS, BOOTSTRAP, Introdução a PYTHON, Git, entre outros.
 - [Website](https://raniel-octavio.github.io/github.com/) 💻 - Trabalhando nisso.
