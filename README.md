@@ -11,7 +11,7 @@ Engenheiro da Computação, focado em desenvolvimento de software com python, ja
 - [Website](https://raniel-octavio.github.io/github.com/) 💻 - Trabalhando nisso.
 
 <p align="center">
-  <a href="https://github.com/raniel-octavio/github-readme-stats">
+  <a href="https://github.com/raniel-octavio">
     <img
       align="center"
       height="165"
