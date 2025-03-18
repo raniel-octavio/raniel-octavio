@@ -6,7 +6,7 @@
 
 ## Sobre mim
 ### Olá, Sou o Raniel! :D
-Engenheiro da Computação, focado em desenvolvimento de software com python, java.
+Engenheiro da Computação, focado em desenvolvimento backend com python, java e ciência de dados.
 - Courses👨🏼‍🏫 - HTML, CSS, JAVASCRIPT, PYTHON, JAVA, BOOTSTRAP, DJANGO, entre outros.
 - [Website](https://raniel-octavio.github.io/github.com/) 💻 - Trabalhando nisso.
 
