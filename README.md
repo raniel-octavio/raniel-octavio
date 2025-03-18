@@ -1,11 +1,12 @@
 ## [“O sucesso é a soma de pequenos esforços repetidos diariamente.” Robert Collier.]()
-# Olá, Sou o Raniel! :D
+# Sejam bem-vindos
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/raniel-octavio)](https://github.com/raniel-octavio)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raniel-octavio-b11a1b113/)](https://www.linkedin.com/in/raniel-octavio-b11a1b113/)
 
 ### Sobre mim
-Engenheiro da Computação , focado em desenvolvimento de software com python, java.
+# Olá, Sou o Raniel! :D
+Engenheiro da Computação, focado em desenvolvimento de software com python, java.
 - [Courses]() 👨🏼‍🏫 - HTML, CSS, BOOTSTRAP, Introdução a PYTHON,  Django,  Git, entre outros.
 - [Website](https://raniel-octavio.github.io/github.com/) 💻 - Trabalhando nisso.
 
