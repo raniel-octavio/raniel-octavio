@@ -5,8 +5,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raniel-octavio-b11a1b113/)](https://www.linkedin.com/in/raniel-octavio-b11a1b113/)
 
 ### Sobre mim
-Cursando o 5º semestre de  Engenharia da Computação , focado em desenvolvimento de software com python.
-- [Courses]() 👨🏼‍🏫 - Cursos técnicos em várias tecnologias, como HTML, CSS, BOOTSTRAP, Introdução a PYTHON,  Django,  Git, entre outros.
+Engenheiro da Computação , focado em desenvolvimento de software com python, java.
+- [Courses]() 👨🏼‍🏫 - HTML, CSS, BOOTSTRAP, Introdução a PYTHON,  Django,  Git, entre outros.
 - [Website](https://raniel-octavio.github.io/github.com/) 💻 - Trabalhando nisso.
 
 <p align="center">
