@@ -4,9 +4,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raniel-octavio-b11a1b113/)](https://www.linkedin.com/in/raniel-octavio-b11a1b113/)
 
 
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=616FF5&size=35&center=true&vCenter=true&width=1000&lines=+Greetings,+Welcome!+My+name's+Vitor+Augusto;I'm+20+years+old;I+am+from+Brazil;Tec.+Desenvolvimento+de+sistemas;)](https://git.io/typing-svg)
-
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=dev-vitorAugusto&show_icons=true&count_private=true&hide_border=true&title_color=616FF5&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Vitor Augusto github status" /> 
   <img width="41%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dev-vitorAugusto&layout=compact&hide_border=true&title_color=616FF5&text_color=616FF5&bg_color=0d1117" />
