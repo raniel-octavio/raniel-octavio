@@ -50,7 +50,7 @@
 </div>
 
 ###
-- [Website](https://raniel-octavio.github.io/github.com/) 💻 - Trabalhando nisso.
+- [Website](https://raniel-octavio.github.io/github.com/) 💻 - Working on it.
 
 
 
