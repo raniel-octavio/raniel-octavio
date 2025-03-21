@@ -7,16 +7,16 @@
 ### Olá, Sou o Raniel! :D
 <p align="center">
   <a href="https://github.com/raniel-octavio">
-    <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="Raniel Octavio" /></a>
+    <img src="" alt="Raniel Octavio" /></a>
 </p>
 
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/raniel-octavio/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20and%20app%20developer;Experienced%20UI%2FUX%20Designer;10%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+    <img src="" /></a>
 </p>
-# Engenheiro da Computação, focado em desenvolvimento Full Stack e ciência de dados.
-#- Courses👨🏼‍🏫 - HTML, CSS, JAVASCRIPT, PYTHON, JAVA, BOOTSTRAP, DJANGO, entre outros.
+<p align="left"> Engenheiro da Computação, focado em desenvolvimento Full Stack e ciência de dados. </p>
+<p align="left"> - Courses👨🏼‍🏫 - HTML, CSS, JAVASCRIPT, PYTHON, JAVA, BOOTSTRAP, DJANGO, entre outros. </p>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
