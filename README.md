@@ -1,9 +1,3 @@
-<div align="center">  
-     
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/raniel-octavio)](https://github.com/raniel-octavio)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raniel-octavio-b11a1b113/)](https://www.linkedin.com/in/raniel-octavio-b11a1b113/)
-     
-</div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=081534&height=120&section=header&text=&fontSize=30&fontColor=fff&animation-twinkling&fontaligny=35"/>
 <br>
 
@@ -18,7 +12,7 @@
    <img width="41%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=raniel-octavio&layout=compact&hide_border=true&title_color=F5F5F5&text_color=F5F5F5&bg_color=0d1117" />
 </div>
 
-<br><br><br><br><br>
+<br><br><br><br>
 
 <div align="left">
 <p align="left"> </p>
@@ -49,6 +43,12 @@
      <p align="left"> </p>
 </div>
 <br><br><br>
+<div align="center">  
+     
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/raniel-octavio)](https://github.com/raniel-octavio)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raniel-octavio-b11a1b113/)](https://www.linkedin.com/in/raniel-octavio-b11a1b113/)
+     
+</div>
 <!-- - [Website](https://raniel-octavio.github.io/github.com/) 💻 - Working on it. -->
 
 
