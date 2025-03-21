@@ -4,27 +4,27 @@
 
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4682B4&height=120&section=header&text=&fontSize=30&fontColor=fff&animation-twinkling&fontaligny=35"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=708090&height=120&section=header&text=&fontSize=30&fontColor=fff&animation-twinkling&fontaligny=35"/>
 
 
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=616FF5&size=35&center=true&vCenter=true&width=1000&lines=+Greetings,+Welcome!+My+name's+Raniel+Octavio;I+am+from+Brazil;Graduated+in+Computer+Engineering;Full+Stack+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=708090&size=35&center=true&vCenter=true&width=1000&lines=+Greetings,+Welcome!+My+name's+Raniel+Octavio;I+am+from+Brazil;Graduated+in+Computer+Engineering;Full+Stack+Developer)](https://git.io/typing-svg)
 
 
 
 
 
 <div align="center">  
-     <img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=raniel-octavio&show_icons=true&count_private=true&hide_border=true&title_color=616FF5&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Vitor Augusto github status" /> 
-   <img width="41%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=raniel-octavio&layout=compact&hide_border=true&title_color=616FF5&text_color=616FF5&bg_color=0d1117" />
+     <img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=raniel-octavio&show_icons=true&count_private=true&hide_border=true&title_color=708090&icon_color=00bfbf&text_color=708090&bg_color=0d1117" alt="Vitor Augusto github status" /> 
+   <img width="41%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=raniel-octavio&layout=compact&hide_border=true&title_color=708090&text_color=708090&bg_color=0d1117" />
 </div>
 
 
 
 
-<p align="left"> Technologies👨🏼‍🏫 - HTML, CSS, JAVASCRIPT, PYTHON, JAVA, BOOTSTRAP, DJANGO, entre outros. </p>
+<p align="left"> Technologies👨🏼‍🏫 - HTML, CSS, JAVASCRIPT, PYTHON, JAVA, BOOTSTRAP, DJANGO, among others. </p>
 
 
 
