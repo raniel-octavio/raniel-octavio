@@ -1,7 +1,7 @@
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/raniel-octavio)](https://github.com/raniel-octavio)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raniel-octavio-b11a1b113/)](https://www.linkedin.com/in/raniel-octavio-b11a1b113/)
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=header&text=&fontSize=30&fontColor=fff&animation-twinkling&fontaligny=35"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=081534&height=120&section=header&text=&fontSize=30&fontColor=fff&animation-twinkling&fontaligny=35"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F5F5F5&size=35&center=true&vCenter=true&width=1000&lines=+Greetings,+Welcome!+My+name's+Raniel+Octavio;I+am+from+Brazil;Graduated+in+Computer+Engineering;Full+Stack+Developer)](https://git.io/typing-svg)
 
