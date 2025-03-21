@@ -49,6 +49,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raniel-octavio-b11a1b113/)](https://www.linkedin.com/in/raniel-octavio-b11a1b113/)
      
 </div>
+<br>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=081534&height=120&section=footer"/>
 <!-- - [Website](https://raniel-octavio.github.io/github.com/) 💻 - Working on it. -->
 
 
