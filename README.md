@@ -16,7 +16,7 @@
     <img src="" /></a>
 </p>
 <p align="left"> Engenheiro da Computação, focado em desenvolvimento Full Stack e ciência de dados. </p>
-<p align="left"> - Courses👨🏼‍🏫 - HTML, CSS, JAVASCRIPT, PYTHON, JAVA, BOOTSTRAP, DJANGO, entre outros. </p>
+<p align="left"> Tecnologias👨🏼‍🏫 - HTML, CSS, JAVASCRIPT, PYTHON, JAVA, BOOTSTRAP, DJANGO, entre outros. </p>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
