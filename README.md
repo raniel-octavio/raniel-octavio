@@ -3,7 +3,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=191970&size=35&center=true&vCenter=true&width=1000&lines=+Greetings,+Welcome!+My+name's+Raniel+Octavio;I+am+from+Brazil;Graduated+in+Computer+Engineering;Full+Stack+Developer)](https://git.io/typing-svg)
 
-<br><br><br>
+<br><br>
 
 <div align="center">  
      <p>  
@@ -12,8 +12,8 @@
    <img width="41%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=raniel-octavio&layout=compact&hide_border=true&title_color=F5F5F5&text_color=F5F5F5&bg_color=0d1117" />
 </div>
 
-<br><br><br><br>
-
+<br><br><br>
+<hr>
 <div align="left">
 <p align="left"> </p>
 <p align="left"> </p>
