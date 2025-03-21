@@ -5,16 +5,15 @@
 
 ## Sobre mim
 ### Olá, Sou o Raniel! :D
-<p align="center">
-  <a href="https://github.com/DenverCoder1">
-    <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="Jonah Lawrence" /></a>
-</p>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=616FF5&height=120&section=header&text=&fontSize=30&fontColor=fff&animation-twinkling&fontaligny=35"/>
 
-<p align="center">
-  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20and%20app%20developer;Experienced%20UI%2FUX%20Designer;10%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
-</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=616FF5&size=35&center=true&vCenter=true&width=1000&lines=+Greetings,+Welcome!+My+name's+Vitor+Augusto;I'm+20+years+old;I+am+from+Brazil;Tec.+Desenvolvimento+de+sistemas;)](https://git.io/typing-svg)
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=dev-vitorAugusto&show_icons=true&count_private=true&hide_border=true&title_color=616FF5&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Vitor Augusto github status" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dev-vitorAugusto&layout=compact&hide_border=true&title_color=616FF5&text_color=616FF5&bg_color=0d1117" />
+</div>
+
 <p align="left"> Engenheiro da Computação, focado em desenvolvimento Full Stack e ciência de dados. </p>
 <p align="left"> Tecnologias👨🏼‍🏫 - HTML, CSS, JAVASCRIPT, PYTHON, JAVA, BOOTSTRAP, DJANGO, entre outros. </p>
 
