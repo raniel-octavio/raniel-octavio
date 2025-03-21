@@ -12,8 +12,8 @@
    <img width="41%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=raniel-octavio&layout=compact&hide_border=true&title_color=F5F5F5&text_color=F5F5F5&bg_color=0d1117" />
 </div>
 
-<br><br><br>
-<hr>
+<br><br>
+
 <div align="left">
 <p align="left"> </p>
 <p align="left"> </p>
