@@ -5,7 +5,7 @@
 
 
 <div align="center">  
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api?username=raniel-octavio&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=radical" />
+   <img width="41%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=raniel-octavio&layout=compact&hide_border=true&title_color=616FF5&text_color=616FF5&bg_color=0d1117" />
 </div>
 
 <p align="left"> Engenheiro da Computação, focado em desenvolvimento Full Stack e ciência de dados. </p>
